@@ -17,7 +17,7 @@
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
 
-<h2> Implementations - </h2>
+<h2> Implementations </h2>
 
 1) Exploratory Data Analysis (EDA) 
 2) K-Nearest Neibours Algorithm (KNN) : F1 score - 86.52
