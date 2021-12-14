@@ -19,8 +19,11 @@
 
 <h2> Implementations - </h2>
 
-1) Exploratory Data Analysis (EDA)
-2) K-Nearest Neibours Algorithm (KNN)
-3) Decision Tree Classifier
-4) Logistic Regression
-5) Support Vector Machine (SVM)
+1) Exploratory Data Analysis (EDA) 
+2) K-Nearest Neibours Algorithm (KNN) : F1 score - 86.52
+3) Decision Tree Classifier : F1 score - 87.98
+4) Logistic Regression : F1 score - 55.22
+5) Support Vector Machine (SVM) : F1 score - 35.95
+
+<h2> Dataset Source </h2>
+https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
