@@ -4,7 +4,7 @@
 </p>
 <h2> Attribute Information: </h2>
 
-1) id: unique identifier
+1) id: unique identifier 
 2) gender: "Male", "Female" or "Other"
 3) age: age of the patient
 4) hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
